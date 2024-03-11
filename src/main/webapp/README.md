@@ -12,5 +12,3 @@
 - 📫 How to reach me **rithikamano.31@gmail.com**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vsmidhun21&show_icons=true&locale=en&layout=compact" alt="vsmidhun21" /></p>
-
